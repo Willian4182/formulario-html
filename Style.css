@@ -1,0 +1,123 @@
+body {
+    background-color: #81df81;
+    background-position: center;
+ 
+ 
+ }
+ 
+ 
+ .container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 0.375rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ 
+ 
+ }
+ 
+ 
+ 
+ .form-horizontal {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+ }
+ 
+ 
+ 
+ legend {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    color: #333;
+ }
+ 
+ 
+ 
+ .form-group {
+    margin-bottom: 1.5rem;
+ }
+ 
+ 
+ 
+ .form-group label {
+    font-weight: 500;
+ }
+ 
+ 
+ 
+ .form-control {
+    border-radius: 0.375rem;
+    border-color: #ced4da;
+    box-shadow: none;
+ }
+ 
+ 
+ .form-control:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+ }
+ 
+ .btn-danger {
+    border-radius: 0.375rem;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    font-weight: 500;
+ }
+ 
+ .btn-danger:hover {
+    opacity: 0.9;
+ }
+ 
+ 
+ .help-block {
+    color: #6c757d;
+    font-size: 0.875rem;
+ }
+ 
+ 
+ .input-group {
+    border-radius: 0.375rem;
+    border: 1px solid #ced4da;
+ }
+ 
+ 
+ 
+ .input-group-text {
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 0.375rem 0 0 0.375rem;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+ }
+ 
+ 
+ 
+ .form-group .btn {
+    margin-right: 0.5rem;
+ }
+ 
+ 
+ 
+ .radio,
+ .checkbox {
+    display: flex;
+    align-items: center;
+ }
+ 
+ 
+ 
+ .radio label,
+ .checkbox label {
+    margin-bottom: 0;
+    margin-left: 0.5rem;
+    font-weight: normal;
+ }
+ 
+ 
+ 
+ .input-group input {
+    border-radius: 0 0.375rem 0.375rem 0;
+ }
